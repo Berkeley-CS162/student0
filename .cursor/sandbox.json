@@ -1,0 +1,5 @@
+{
+  "networkPolicy": {
+    "allow": ["cs162.org", "*.cs162.org"]
+  }
+}
